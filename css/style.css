@@ -1,0 +1,23 @@
+.light-blue {
+    background-color: rgb(0, 221, 255);
+    color: white
+}
+
+.dark-blue {
+    background-color: rgb(14, 14, 113);
+    color: white;
+}
+
+.total-black {
+    background-color: black;
+    color: white;
+}
+
+.violet{
+    background-color: rgb(117, 249, 234);
+    color:rgb(14, 14, 113);
+}
+
+.text-center {
+    text-align: center;
+}
