@@ -19,7 +19,7 @@ for(let i = 1; i <= 100; i++){
         pElement.classList.add("light-blue", "text-center")
         console.log(fizzBuzz = "Fizz")
     } else {
-        pElement.classList.add("violet")
+        pElement.classList.add("violet", "text-center")
         console.log(i)
     }
     
