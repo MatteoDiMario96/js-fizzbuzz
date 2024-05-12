@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 header {
     height: 80px;
     background-color: #4b4b4b;
@@ -48,8 +54,13 @@ div.container {
     margin: 0 auto;
 }
 
+p:first-child{
+    margin-top: 2rem;
+}
+
 p {
     border-radius: 20px;
+    margin-bottom: 2rem;
 }
 
 
